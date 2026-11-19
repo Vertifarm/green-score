@@ -24,3 +24,5 @@ pip install -r requirements.txt
 uvicorn app.main:app --port 8003
 python -m pytest
 ```
+## Équipe
+- <Norbert> — mainteneur du dépôt <Green Score>
